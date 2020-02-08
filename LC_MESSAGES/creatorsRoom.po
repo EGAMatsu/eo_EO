@@ -1,50 +1,50 @@
 msgid "SEE_MORE"
-msgstr "See more..."
+msgstr "Vidi pli da enhavo..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Steligitaj Flipnotoj"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorite Users"
+msgstr "Plej ŝatataj Uzantoj"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorites Feed"
+msgstr "Preferoj Feed"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorite Channels"
+msgstr "Favoritaj Kanaloj"
 
 msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
+msgstr "Elŝutoj"
 
 msgid "USER_VIEWCOUNT"
-msgstr "Views"
+msgstr "Vidoj"
 
 msgid "USER_THEME"
-msgstr "Theme"
+msgstr "Stilo"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Stila Butiko"
 
 msgid "POSTED_COMMENTS"
-msgstr "Posted Comments"
+msgstr "Afiŝitaj Komentoj"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatroom Messages"
+msgstr "Babilejaj mesaĝoj"
 
 msgid "FEATURE_USABILITY"
-msgstr "Feature Usability"
+msgstr "Trajto Uzebleco"
 
 msgid "USABLE"
-msgstr "Usable"
+msgstr "Uzebla"
 
 msgid "NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Neuzebla"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Sudomemo Theatre Ligilo"
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "ID de Flipnote Studio"
 
 msgid "SETTINGS"
 msgstr "Settings"
